@@ -1,11 +1,6 @@
 //===================================================
 // Name              : Nidhi Patel
-// SID               : 31379144
-// Course            : IT114
-// Section           : 452
-// Instructor 	      : Maura Deek
-// Assignment #      : Programming Assignment 3
-// Date        	   :  03/25/2016
+// Date        	     :  03/25/2016
 // Description       : This program is a Hangman game
 //===================================================
 
